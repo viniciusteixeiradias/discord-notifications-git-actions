@@ -1,1 +1,1 @@
-Push notification on discord
+Push notification on discord!
